@@ -3,7 +3,7 @@
 <!--t
 **daojiAnime/daojiAnime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![daojiAnime's GitHub stats](https://github-readme-stats.vercel.app/api?username=daojiAnime)](https://github.com/anuraghazra/github-readme-stats)
+![daojiAnime's GitHub stats](https://github-readme-stats.vercel.app/api?username=daojiAnime)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
