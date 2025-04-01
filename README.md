@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [<-- Projects display pages -->](<-- Projects display pages -->)
 - 📝我的博客地址： [https://daojianime.github.io/](https://daojianime.github.io/)
 - 📫 How to reach me **daoji.chang@gmail.com**
-- 📄 Know about my experiences [https://www.yunjiguan.com/](https://www.yunjiguan.com/)
+- 最近主要项目：[https://github.com/memo-mate/MemoMate/tree/master](https://github.com/memo-mate/MemoMate/tree/master)
 - ⚡ Fun fact **Pycharm's support for poetry is unfriendly.**
 
 <h3 align="left">Languages and Tools:</h3>
