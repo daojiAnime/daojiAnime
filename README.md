@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daojianime" alt="daojianime" /></a> </p>
 
 - 🌱 I’m currently learning **AI[RAG + Agent]**
-- 📝我的博客地址： [https://daojianime.github.io/](https://daojianime.github.io/)
+- 📝我的博客地址： [https://blog.daojinobb.eu.org/](https://blog.daojinobb.eu.org/)
 - 📫 How to reach me **daoji.chang@gmail.com**
 - 最近主要项目：[https://github.com/memo-mate/MemoMate/tree/master](https://github.com/memo-mate/MemoMate/tree/master)
 - ⚡ Fun fact **Pycharm's support for poetry is unfriendly.**
