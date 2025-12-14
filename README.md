@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Daoji;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%E5%88%80%E5%8F%BD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B88C3&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Daoji;%E4%BD%A0%E5%A5%BD+%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF+Daoji" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -156,7 +156,7 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daojianime&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=daojianime&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=daojianime&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -168,7 +168,7 @@
 ## 🏆 GitHub Trophies | GitHub 成就
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=daojianime&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=daojianime&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
